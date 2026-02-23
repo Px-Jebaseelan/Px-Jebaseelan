@@ -40,11 +40,5 @@ I believe that doing great work requires a well-rounded mind. When I step away f
 ---
 
 <div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Px-JebaSeelan&show_icons=true&theme=radical&hide_border=true" alt="Phoenix's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Px-JebaSeelan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
-
-<div align="center">
   <i>"Building systems that scale, designing experiences that matter."</i>
 </div>
