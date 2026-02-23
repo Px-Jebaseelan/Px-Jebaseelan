@@ -78,7 +78,6 @@ Great engineering requires a well-rounded perspective. When I step away from the
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Px-JebaSeelan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Px-JebaSeelan&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
