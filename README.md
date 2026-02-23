@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 The Architect & The Artist
+### 👨‍💻 The Architect & Dev
 I am a 2nd-year Computer Science Engineering student and a freelance Full Stack Engineer who thrives at the intersection of complex logic and creative design. I specialize in the **MERN** and **FERN** stacks, building real-time, low-latency systems (WebRTC, WebSockets) and engineering privacy-first, zero-knowledge architectures. 
 
 When I'm not optimizing Core Web Vitals or solving algorithmic challenges, I'm usually diving into cybersecurity, practicing ethical hacking, or exploring new dimensions of tech—like building my own Python/Golang virtual assistant (also named Phoenix) and rendering 3D web games. 
