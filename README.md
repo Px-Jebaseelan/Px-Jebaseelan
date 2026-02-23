@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Phoenix%20(Jeba%20Seelan)&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Privacy-First%20Architect&descAlignY=55&descAlign=62&fontColor=ffffff&descTheme=light" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Phoenix%20(Jeba%20Seelan)&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Privacy-First%20Architect&descAlignY=55&descAlign=62" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -59,9 +59,9 @@ I'm a 2nd-year CSE student and an incoming **Full Stack Engineer Intern at Exper
 
 | Project | Description | Tech Highlight |
 | :--- | :--- | :--- |
-| 🔐 **[Emojify](https://emojify0.web.app)** | Privacy-first SaaS platform with zero-knowledge architecture. | `Client-Side AES-256`, `PBKDF2` |
+| 🔐 **[Emojify](https://emojify0.web.app)** | Privacy-first SaaS platform with zero-knowledge architecture. | `Client-Side AES-256-CTR`, `PBKDF2` |
 | ⚡ **[Neo Sharex](https://neo-sharex.web.app)** | Decentralized P2P serverless file-sharing system. | `WebRTC DataChannels`, `Adaptive Chunking` |
-| 🤝 **[Lab-Link](https://lablink.live)** | Low-latency real-time collaborative workspace for developers. | `Firebase Listeners`, `Node.js` |
+| 🤝 **[Lab-Link](https://lablink.live)** | Low-latency real-time collaborative workspace for developers. | `Firebase Listeners`, `Node.js Microservices` |
 | 💼 **[GigFlow](#)** | Scalable freelance marketplace platform. | `MERN Stack`, `RESTful APIs` |
 
 ---
@@ -78,8 +78,8 @@ Great engineering requires a well-rounded perspective. When I step away from the
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Px-JebaSeelan&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Px-JebaSeelan&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Px-JebaSeelan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Px-JebaSeelan&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
