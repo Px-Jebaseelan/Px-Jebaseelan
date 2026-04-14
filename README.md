@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About The Architect
 
-I'm a 2nd-year CSE student and an incoming **Full Stack Engineer Intern at Experiment Labs**. I specialize in the **MERN** and **FERN** stacks, focusing on real-time systems (WebRTC, WebSockets) and zero-knowledge architectures. Whether I'm designing decentralized file-sharing protocols or exploring cybersecurity and ethical hacking, I build systems that are as secure as they are scalable.
+I'm a 2nd-year CSE student and an innovative **Full Stack Engineer**. I specialize in the **MERN** and **FERN** and **NextJS** stacks, focusing on real-time systems (WebRTC, WebSockets), Ai integrations and zero-knowledge architectures. Whether I'm designing decentralized file-sharing protocols or exploring cybersecurity and ethical hacking, I build systems that are as secure as they are scalable.
 
 * 🔭 **Currently Building:** A personal virtual assistant in Python/Go, and an interactive 3D web game, *Neon Velocity: Overdrive*.
 * 💡 **Hackathon Hacker:** 1st place at SIH (Campus Level) and active competitor developing solutions like *VanigaTech* for micro-MSMEs.
